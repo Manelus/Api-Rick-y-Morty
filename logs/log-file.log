@@ -1,0 +1,55 @@
+{"level":"info","message":"::1 - - [26/Jan/2022:09:34:37 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"\n","timestamp":"2022-01-26T09:34:37.507Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:09:44:13 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"\n","timestamp":"2022-01-26T09:44:13.496Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:09:49:53 +0000] \"GET /movies HTTP/1.1\" 200 115 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"\n","timestamp":"2022-01-26T09:49:53.335Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:09:50:43 +0000] \"GET /movies HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"\n","timestamp":"2022-01-26T09:50:43.906Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:09:50:58 +0000] \"GET /movies HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"\n","timestamp":"2022-01-26T09:50:58.933Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:09:51:03 +0000] \"GET /movies HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"\n","timestamp":"2022-01-26T09:51:03.951Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:09:51:11 +0000] \"GET /movies/1 HTTP/1.1\" 200 30 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"\n","timestamp":"2022-01-26T09:51:11.608Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:09:59:57 +0000] \"GET /movies HTTP/1.1\" 200 115 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-26T09:59:57.186Z"}
+{"level":"info","message":"::1 - - [26/Jan/2022:10:00:36 +0000] \"GET /movies/%22Soy%20Leyenda%22 HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-26T10:00:36.441Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:26:35 +0000] \"POST /movies HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:26:35.707Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:27:59 +0000] \"GET /movies HTTP/1.1\" 200 144 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:27:59.205Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:37:50 +0000] \"PUT /movies HTTP/1.1\" 404 145 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:37:50.052Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:39:46 +0000] \"PUT /movies HTTP/1.1\" 404 145 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:39:46.468Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:40:48 +0000] \"PUT /movies/5 HTTP/1.1\" 500 1577 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:40:48.010Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:42:08 +0000] \"GET /movies HTTP/1.1\" 200 115 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:42:08.188Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:42:37 +0000] \"PUT /movies/4 HTTP/1.1\" 200 30 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:42:37.706Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:45:27 +0000] \"GET /movies/4 HTTP/1.1\" 200 30 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:45:27.429Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:45:33 +0000] \"GET /movies HTTP/1.1\" 200 119 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:45:33.240Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:46:45 +0000] \"GET /movies HTTP/1.1\" 200 115 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:46:45.620Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:47:09 +0000] \"POST /movies HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:47:09.653Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:47:13 +0000] \"GET /movies HTTP/1.1\" 200 144 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:47:13.872Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:47:28 +0000] \"DELETE /movies/5 HTTP/1.1\" 200 20 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:47:28.735Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:47:33 +0000] \"GET /movies/5 HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:47:33.611Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:48:01 +0000] \"GET /movies HTTP/1.1\" 200 115 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:48:01.302Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:48:13 +0000] \"DELETE /movies/4 HTTP/1.1\" 200 20 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:48:13.140Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:48:19 +0000] \"GET /movies HTTP/1.1\" 200 88 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:48:19.066Z"}
+{"level":"info","message":"::1 - - [27/Jan/2022:09:48:44 +0000] \"GET /movies HTTP/1.1\" 200 115 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-27T09:48:44.762Z"}
+{"level":"info","message":"::1 - - [31/Jan/2022:09:35:24 +0000] \"GET /personajes HTTP/1.1\" 404 149 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-31T09:35:24.502Z"}
+{"level":"info","message":"::1 - - [31/Jan/2022:10:09:11 +0000] \"GET /personajes HTTP/1.1\" 404 149 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-01-31T10:09:11.450Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:23:42 +0000] \"GET /personajes HTTP/1.1\" 404 149 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:23:42.619Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:23:59 +0000] \"GET /personaje HTTP/1.1\" 200 909 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:23:59.976Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:24:44 +0000] \"GET /personaje/id/3 HTTP/1.1\" 404 153 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:24:44.492Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:24:51 +0000] \"GET /personaje/3 HTTP/1.1\" 200 190 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:24:51.897Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:25:01 +0000] \"GET /personaje/morty HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:25:01.396Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:25:19 +0000] \"GET /personaje/Morty HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:25:19.174Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:25:23 +0000] \"GET /personaje/MortySmith HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:25:23.240Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:25:48 +0000] \"GET /personajes/MortySmith HTTP/1.1\" 404 160 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:25:48.557Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:25:54 +0000] \"GET /personaje/MortySmith HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:25:54.291Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:27:01 +0000] \"GET /personaje/id/1 HTTP/1.1\" 404 153 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:27:01.596Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:27:05 +0000] \"GET /personaje/1 HTTP/1.1\" 200 164 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:27:05.321Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:27:20 +0000] \"GET /personaje/1 HTTP/1.1\" 404 150 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:27:20.077Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:27:25 +0000] \"GET /personaje/id/1 HTTP/1.1\" 200 164 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:27:25.204Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:27:33 +0000] \"GET /personaje/name/rick HTTP/1.1\" 500 1632 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:27:33.939Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:27:41 +0000] \"GET /personaje/name/Rick HTTP/1.1\" 500 1632 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:27:41.063Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:13:28:03 +0000] \"GET /personaje/gender/female HTTP/1.1\" 500 1636 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T13:28:03.541Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:21:29 +0000] \"GET /personaje/gender/female HTTP/1.1\" 500 1636 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:21:29.033Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:24:29 +0000] \"GET /personaje/name/rick HTTP/1.1\" 500 1632 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:24:29.549Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:24:35 +0000] \"GET /personaje/name/Rick HTTP/1.1\" 500 1632 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:24:35.533Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:27:18 +0000] \"GET /personaje/gender/female HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:27:18.687Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:28:02 +0000] \"GET /personaje/gender/Female HTTP/1.1\" 200 190 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:28:02.923Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:28:27 +0000] \"GET /personaje/origin HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:28:27.628Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:28:46 +0000] \"GET /personaje/origin/Earth HTTP/1.1\" 200 164 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:28:46.967Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:28:51 +0000] \"GET /personaje/origin/Earth( HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:28:51.662Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:29:07 +0000] \"GET /personaje/origin/Earth_( HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:29:07.372Z"}
+{"level":"info","message":"::1 - - [05/Feb/2022:17:29:11 +0000] \"GET /personaje/origin/Ear HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:29:11.095Z"}
