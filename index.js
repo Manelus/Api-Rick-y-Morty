@@ -4,7 +4,7 @@ const morgan = require('morgan');
 const logger = require('./config/winston');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000; //Configuramos puerto heroku
 
 //Middleware
 app.use(morgan('combined', { stream: logger.stream }));
