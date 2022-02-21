@@ -53,3 +53,4 @@
 {"level":"info","message":"::1 - - [05/Feb/2022:17:28:51 +0000] \"GET /personaje/origin/Earth( HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:28:51.662Z"}
 {"level":"info","message":"::1 - - [05/Feb/2022:17:29:07 +0000] \"GET /personaje/origin/Earth_( HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:29:07.372Z"}
 {"level":"info","message":"::1 - - [05/Feb/2022:17:29:11 +0000] \"GET /personaje/origin/Ear HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-05T17:29:11.095Z"}
+{"level":"info","message":"::1 - - [10/Feb/2022:09:10:58 +0000] \"GET /personaje/gender/Female HTTP/1.1\" 200 190 \"-\" \"PostmanRuntime/7.29.0\"\n","timestamp":"2022-02-10T09:10:58.636Z"}
